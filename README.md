@@ -1,5 +1,4 @@
 # Linux Server Files/Windows Server Files
-* <b>Left 4 Dead 1 Version 1.0.3.7</b> by value
 * <b>SourceMod 1.9.0-git6251</b> by AlliedModders LLC
 * <b>MetaMod 1.10.7-git966</b> by AlliedModders LLC
 * <b>stripper 1.2.2-hg82</b> by BAILOPAN
