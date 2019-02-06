@@ -10,3 +10,4 @@
 * <b>GameRules Tools 1.0</b> by psychonic
 # Sourcemod Anti-Cheat
 [Sourcemod Anti-Cheat Wiki home](https://bitbucket.org/anticheat/smac/wiki/Home)
+* smac + smac_aimbot + smac_autotrigger + smac_client + smac_commands + smac_eyetest + smac_rcon + smac_speedhack + smac_spinhack
