@@ -8,6 +8,8 @@
 * <b>dosprotect 1.0.0.0v</b> (linux broken) by ZombieX2.net
 * <b>tickrate 1.4</b> by Spirit_12
 * <b>GameRules Tools 1.0</b> by psychonic
+* Server Launch parameter: 
+  * -console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0
 # Sourcemod Anti-Cheat
 [Sourcemod Anti-Cheat Wiki home](https://bitbucket.org/anticheat/smac/wiki/Home)
 * smac + smac_aimbot + smac_autotrigger + smac_client + smac_commands + smac_eyetest + smac_rcon + smac_speedhack + smac_spinhack
