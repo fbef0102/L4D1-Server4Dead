@@ -6,10 +6,31 @@
 * <b>DHooks 2.2-hg126</b> by Dr!fter
 * <b>Left 4 Downtown 0.4.7.5</b> (windows file by raziEiL, linux file by Spirit_12)
 * <b>dosprotect 1.0.0.0v</b> (linux broken) by ZombieX2.net
-* <b>tickrate 1.4</b> by Spirit_12
+* <b>tickrate 1.4</b> (up limit: 100tick) by Spirit_12
 * <b>GameRules Tools 1.0</b> by psychonic
-* Server Launch parameter: 
+
+**Step 1:** Place the files provided in the correct folder.
+
+**Step 2:** Change the Launch Parameters.
   * -console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0
+
+**Step 3:** Adjust your server.cfg to match your rates accordingly.  
+For example: For 100 Tickrate, you'd want these settings:
+
+sm_cvar sv_minrate 			"100000"  
+sm_cvar sv_maxrate 			"100000"  
+sm_cvar sv_minupdaterate 		"101"
+sm_cvar sv_mincmdrate 			"101"  
+sm_cvar sv_maxupdaterate 		"101"  
+sm_cvar sv_maxcmdrate 			"101"  
+sm_cvar sv_client_min_interp_ratio 	"0"  
+sm_cvar sv_client_max_interp_ratio 	"2"  
+sm_cvar rate				"100000"  
+sm_cvar net_splitrate			"3"  
+sm_cvar net_splitpacket_maxrate		"30000"  
+sm_cvar net_compresspackets_minsize 	"32"  
+sm_cvar fps_max                         "0"  
+
 # Sourcemod Anti-Cheat
 [Sourcemod Anti-Cheat Wiki home](https://bitbucket.org/anticheat/smac/wiki/Home)
 * smac + smac_aimbot + smac_autotrigger + smac_client + smac_commands + smac_eyetest + smac_rcon + smac_speedhack + smac_spinhack
