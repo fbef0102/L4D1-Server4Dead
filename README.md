@@ -9,7 +9,7 @@
 * <b>tickrate 1.4</b> (up limit: 100tick) by Spirit_12
 * <b>GameRules Tools 1.0</b> by psychonic
 
-**Step 1:** Place the files provided in the correct folder.
+**Step 1:** A clean L4D1 Dedicated Server and place the files provided in the correct folder.
 
 **Step 2:** Change the Launch Parameters.
   * -console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0
@@ -30,6 +30,20 @@ sm_cvar net_splitrate			"3"
 sm_cvar net_splitpacket_maxrate		"30000"  
 sm_cvar net_compresspackets_minsize 	"32"  
 sm_cvar fps_max                         "0"  
+
+# How to download L4D1 Dedicated Server files:
+**Warning: Don't try to download "Left 4 Dead Dedicated Server" from steam library, it's broken!! Use steamcmd instead.**
+
+**Step 1:** download [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD).
+
+**Step 2:** launch steamcmd , steamcmd would automatically download required files .
+
+**Step 3:** after it says "Loading Steam API...OK.", type
+* login anonymous
+* force_install_dir ./l4d1/
+* app_update 222840 validate
+
+**Step 4:** finish downloading and quit.
 
 # Sourcemod Anti-Cheat
 [Sourcemod Anti-Cheat Wiki home](https://bitbucket.org/anticheat/smac/wiki/Home)
