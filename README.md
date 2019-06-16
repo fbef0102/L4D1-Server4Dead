@@ -8,6 +8,7 @@
 * <b>dosprotect 1.0.0.0v</b> (linux broken) by ZombieX2.net
 * <b>tickrate 1.4</b> (up limit: 100tick) by Spirit_12
 * <b>GameRules Tools 1.0</b> by psychonic
+* <b>voicehook.ext 2.0</b> by Accelerator74
 
 **Step 1:** A clean L4D1 Dedicated Server and place the files provided in the correct folder.
 
