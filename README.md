@@ -1,4 +1,5 @@
 # Linux Server Files/Windows Server Files
+>last edited:2019/8/3
 * <b>SourceMod 1.9.0-git6251</b> by AlliedModders LLC
 * <b>MetaMod 1.10.7-git966</b> by AlliedModders LLC
 * <b>stripper 1.2.2-hg82</b> by BAILOPAN
@@ -48,4 +49,4 @@ sm_cvar fps_max                         "0"
 
 # Sourcemod Anti-Cheat
 [Sourcemod Anti-Cheat Wiki home](https://bitbucket.org/anticheat/smac/wiki/Home)
-* smac + smac_aimbot + smac_autotrigger + smac_client + smac_commands + smac_eyetest + smac_rcon + smac_speedhack + smac_spinhack
+* smac + smac_aimbot + smac_autotrigger + smac_client + smac_commands + smac_eyetest + smac_rcon + smac_speedhack + smac_spinhack + smac_cvars
