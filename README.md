@@ -1,5 +1,5 @@
 # Linux Server Files/Windows Server Files
->last edited:2019/8/3
+>last edited:2019/8/20
 * <b>SourceMod 1.9.0-git6251</b> by AlliedModders LLC
 * <b>MetaMod 1.10.7-git966</b> by AlliedModders LLC
 * <b>stripper 1.2.2-hg82</b> by BAILOPAN
