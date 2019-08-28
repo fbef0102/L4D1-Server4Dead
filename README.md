@@ -1,10 +1,10 @@
 # Linux Server Files/Windows Server Files
->last edited:2019/8/27
+>last edited:2019/8/29
 * <b>SourceMod 1.9.0-git6251</b> by AlliedModders LLC
 * <b>MetaMod 1.10.7-git966</b> by AlliedModders LLC
 * <b>stripper 1.2.2-hg82</b> by BAILOPAN
 * <b>l4dtoolz 1.0.0.9f</b> for windows, <b>1.0.0.9r1</b> for linux (by ivailosp)
-* <b>DHooks 2.2.0-detours9</b> by Dr!fter
+* <b>DHooks 2.2.0-detours7</b> by Dr!fter
 * <b>Left 4 Downtown 0.4.7.5</b> (windows file by raziEiL, linux file by Spirit_12)
 * <b>dosprotect 1.0.0.0v</b> (linux broken) by ZombieX2.net
 * <b>tickrate 1.4</b> (up limit: 100tick) by Spirit_12
