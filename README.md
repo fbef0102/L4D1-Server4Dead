@@ -1,15 +1,15 @@
 # Linux Server Files/Windows Server Files
->last edited:2019/9/21
-* <b>SourceMod 1.9.0-git6251</b> by AlliedModders LLC
-* <b>MetaMod 1.10.7-git966</b> by AlliedModders LLC
-* <b>stripper 1.2.2-hg82</b> by BAILOPAN
-* <b>l4dtoolz 1.0.0.9f</b> for windows, <b>1.0.0.9r1</b> for linux (by ivailosp)
-* <b>DHooks 2.2.0-detours9</b> by Dr!fter
-* <b>Left 4 Downtown 0.4.7.5</b> (windows file by raziEiL, linux file by Spirit_12)
-* <b>dosprotect 1.0.0.0v</b> (linux broken) by ZombieX2.net
-* <b>tickrate 1.4</b> (up limit: 100tick) by Spirit_12
-* <b>GameRules Tools 1.0</b> by psychonic
-* <b>voicehook.ext 2.0</b> by Accelerator74
+>last edited:2019/10/12
+* <b>SourceMod 			1.9.0-git6251</b> 	by AlliedModders LLC
+* <b>MetaMod 			1.10.7-git966</b> 	by AlliedModders LLC
+* <b>stripper 			1.2.2-hg82</b> 		by BAILOPAN
+* <b>l4dtoolz 			1.0.0.9f</b> windows, <b>1.0.0.9r1</b> linux by ivailosp
+* <b>DHooks 			2.2.0-detours9</b> 	by Dr!fter
+* <b>Left 4 Downtown 	0.4.7.5</b> 		windows by raziEiL, linux by Spirit_12
+* <b>dosprotect 		1.0.0.0v</b> 		by ZombieX2.net by ZombieX2.net 		(linux broken)
+* <b>tickrate 			1.4</b> 			by Spirit_12 							(up limit: 100tick)
+* <b>GameRules Tools 	1.0</b> 			by psychonic
+* <b>voicehook.ext 		2.0</b> 			by Accelerator74
 
 **Step 1:** A [clean L4D1 Dedicated Server](https://github.com/fbef0102/L4D1-Server4Dead/blob/master/README.md#how-to-download-l4d1-dedicated-server-files).
 
