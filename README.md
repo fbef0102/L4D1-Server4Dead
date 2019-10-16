@@ -1,13 +1,13 @@
 # Linux Server Files/Windows Server Files
->last edited:2019/10/12
+>last edited:2019/10/17
 * <b>SourceMod 			1.9.0-git6251</b> 	by AlliedModders LLC
 * <b>MetaMod 			1.10.7-git966</b> 	by AlliedModders LLC
 * <b>stripper 			1.2.2-hg82</b> 		by BAILOPAN
-* <b>l4dtoolz 			1.0.0.9f</b> windows, <b>1.0.0.9r1</b> linux by ivailosp
+* <b>l4dtoolz 			1.0.0.9f(windows)</b>, <b>1.0.0.9r1(linux)</b> by ivailosp
 * <b>DHooks 			2.2.0-detours9</b> 	by Dr!fter
 * <b>Left 4 Downtown 	0.4.7.5</b> 		windows by raziEiL, linux by Spirit_12
-* <b>dosprotect 		1.0.0.0v</b> 		by ZombieX2.net by ZombieX2.net 		(linux broken)
-* <b>tickrate 			1.4</b> 			by Spirit_12 							(up limit: 100tick)
+* <b>dosprotect 		1.0.0.0v(windows)</b> 		by ZombieX2.net by ZombieX2.net (linux broken)
+* <b>tickrate 			1.4(windows)</b> by ProdigySim, Spirit_12, <b>1.44(linux)</b> by Engine, aXe
 * <b>GameRules Tools 	1.0</b> 			by psychonic
 * <b>voicehook.ext 		2.0</b> 			by Accelerator74
 
@@ -15,11 +15,8 @@
 
 **Step 2:** Choose [Windows Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v2.0/Windows_Server_files.zip) or [Linux Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v2.0/Linux_Server_files.zip)(depending on the operating system of your server), and place the files provided in the correct folder.
 
-**Step 3:** Change the Launch Parameters.
-  * -console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0
-
-**Step 4:** Adjust your server.cfg to match your rates accordingly.  
-For example: For 100 Tickrate, you'd want these settings:
+**Step 3:** Adjust your server_rates.cfg to match your rates accordingly.  
+*For 100 Tickrate, you'd want these settings:
 
 sm_cvar sv_minrate 			"100000"  
 sm_cvar sv_maxrate 			"100000"  
@@ -33,7 +30,13 @@ sm_cvar rate				"100000"
 sm_cvar net_splitrate			"3"  
 sm_cvar net_splitpacket_maxrate		"30000"  
 sm_cvar net_compresspackets_minsize 	"32"  
-sm_cvar fps_max                         "0"  
+sm_cvar fps_max                         "0"
+
+If you're going to adjust your Tickrate above 100, you will run into Boomer Vomit Range issues.
+You will need to add "-frametime 0.037 -frametime_override 0.037" to the launch parameters to resolve this, make sure to place them after the tickrate parameter.
+
+**Step 4:** Change the Launch Parameters.
+  * -console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0
 
 # How to download L4D1 Dedicated Server files:
 **Warning: Don't try to download "Left 4 Dead Dedicated Server" from steam library, it's broken!! Use steamcmd instead.**
