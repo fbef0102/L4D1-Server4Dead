@@ -29,9 +29,9 @@
 
 >sm_cvar sv_maxcmdrate 			"101"
 
->sm_cvar cl_cmdrate			"100"
+>sm_cvar cl_cmdrate			"101"
 
->sm_cvar cl_updaterate 			"100"
+>sm_cvar cl_updaterate 			"101"
 
 >sm_cvar rate				"100000"
 
