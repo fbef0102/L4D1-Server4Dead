@@ -40,7 +40,7 @@
 **Step 4:** Change the Launch Parameters.
   * -console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0
   * If you're going to adjust your Tickrate above 100, you will run into Boomer Vomit Range issues. You will need to add   
-  *-frametime 0.037 -frametime_override 0.037* to the launch parameters to resolve this, make sure to place them after the tickrate parameter.
+  ***-frametime 0.037 -frametime_override 0.037*** to the launch parameters to resolve this, make sure to place them after the tickrate parameter.
 
 # How to download L4D1 Dedicated Server files:
 **Warning: Don't try to download "Left 4 Dead Dedicated Server" from steam library, it's broken!! Use steamcmd instead.**
