@@ -15,7 +15,7 @@
 
 **Step 2:** Choose [Windows Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v2.0/Windows_Server_files.zip) or [Linux Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v2.0/Linux_Server_files.zip)(depending on the operating system of your server), and place the files provided in the correct folder.
 
-**Step 3:** Adjust your server_rates.cfg to match your rates accordingly.  
+**Step 3:** Adjust your **server_rates.cfg** to match your rates accordingly.  
 * For 100 Tickrate, you'd want these settings:
 >sm_cvar sv_minrate 			"100000"
 
@@ -40,7 +40,7 @@
 **Step 4:** Change the Launch Parameters.
   * -console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0
   * If you're going to adjust your Tickrate above 100, you will run into Boomer Vomit Range issues. You will need to add   
-  **-frametime 0.037 -frametime_override 0.037** to the launch parameters to resolve this, make sure to place them after the tickrate parameter.
+  *-frametime 0.037 -frametime_override 0.037* to the launch parameters to resolve this, make sure to place them after the tickrate parameter.
 
 # How to download L4D1 Dedicated Server files:
 **Warning: Don't try to download "Left 4 Dead Dedicated Server" from steam library, it's broken!! Use steamcmd instead.**
