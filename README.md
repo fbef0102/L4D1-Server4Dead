@@ -33,7 +33,7 @@ sm_cvar net_compresspackets_minsize 	"32"
 sm_cvar fps_max                         "0"
 
 If you're going to adjust your Tickrate above 100, you will run into Boomer Vomit Range issues.
-You will need to add "-frametime 0.037 -frametime_override 0.037" to the launch parameters to resolve this, make sure to place them after the tickrate parameter.
+You will need to add **-frametime 0.037 -frametime_override 0.037** to the launch parameters to resolve this, make sure to place them after the tickrate parameter.
 
 **Step 4:** Change the Launch Parameters.
   * -console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0
