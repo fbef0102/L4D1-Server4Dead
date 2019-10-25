@@ -4,7 +4,7 @@
 * <b>MetaMod 			1.10.7-git966</b> 	by AlliedModders LLC
 * <b>stripper 			1.2.2-hg82</b> 		by BAILOPAN
 * <b>l4dtoolz 			1.0.0.9f(windows)</b>, <b>1.0.0.9r1(linux)</b> by ivailosp
-* <b>DHooks 			2.2.0-detours9</b> 	by Dr!fter
+* <b>DHooks 			2.2.0-detours9</b> 	by Dr!fter,Peace-Maker
 * <b>Left 4 Downtown 	0.4.7.5</b> 		windows by raziEiL, linux by Spirit_12
 * <b>dosprotect 		1.0.0.0v(windows)</b> 		by ZombieX2.net by ZombieX2.net (linux broken)
 * <b>tickrate 			1.4(windows)</b> by ProdigySim, Spirit_12, <b>1.44(linux)</b> by Engine, aXe
