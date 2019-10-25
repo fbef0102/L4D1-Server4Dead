@@ -1,15 +1,15 @@
 # Linux Server Files/Windows Server Files
 >last edited:2019/10/17
-* <b>SourceMod 			1.9.0-git6251</b> 	by AlliedModders LLC
-* <b>MetaMod 			1.10.7-git966</b> 	by AlliedModders LLC
-* <b>stripper 			1.2.2-hg82</b> 		by BAILOPAN
-* <b>l4dtoolz 			1.0.0.9f(windows)</b>, <b>1.0.0.9r1(linux)</b> by ivailosp
-* <b>DHooks 			2.2.0-detours9</b> 	by Dr!fter,Peace-Maker
-* <b>Left 4 Downtown 	0.4.7.5</b> 		windows by raziEiL, linux by Spirit_12
-* <b>dosprotect 		1.0.0.0v(windows)</b> 		by ZombieX2.net by ZombieX2.net (linux broken)
-* <b>tickrate 			1.4(windows)</b> by ProdigySim, Spirit_12, <b>1.44(linux)</b> by Engine, aXe
-* <b>GameRules Tools 	1.0</b> 			by psychonic
-* <b>voicehook.ext 		2.0</b> 			by Accelerator74
+* <b>SourceMod 			1.9.0-git6251</b> 	    by AlliedModders LLC
+* <b>MetaMod 			1.10.7-git966</b> 	    by AlliedModders LLC
+* <b>stripper 			1.2.2-hg82</b> 		    by BAILOPAN
+* <b>l4dtoolz 			1.0.0.9f</b> 		    by ivailosp
+* <b>DHooks 			2.2.0-detours9</b> 	    by Dr!fter、Peace-Maker
+* <b>Left 4 Downtown 	0.4.7.5(windows)</b>    by Igor "Downtown1" Smirnov 、 Andrew "XBetaAlpha" Burrows 、 AtomicStryker 、 Michael "ProdigySim" Busby 、 Continued by: sentient & raziEiL, <b>(linux)</b> by Spirit_12
+* <b>dosprotect 		1.0.0.0-18(windows)</b> by ZombieX2.net、D1maxa <b>(linux broken)</b>
+* <b>tickrate 			1.4(windows)</b> 	    by ProdigySim、Spirit_12, <b>1.44(linux)</b> by Engine、aXe
+* <b>GameRules Tools 	1.0</b> 			    by psychonic
+* <b>voicehook.ext 		2.0</b> 			    by Accelerator74
 
 **Step 1:** A [clean L4D1 Dedicated Server](https://github.com/fbef0102/L4D1-Server4Dead/blob/master/README.md#how-to-download-l4d1-dedicated-server-files).
 
