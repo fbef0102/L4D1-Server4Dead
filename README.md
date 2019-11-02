@@ -8,6 +8,7 @@
 * <b>Left 4 Downtown 	0.4.7.5(windows)</b>    by Igor "Downtown1" Smirnov 、 Andrew "XBetaAlpha" Burrows 、 AtomicStryker 、 Michael "ProdigySim" Busby 、 Continued by: sentient & raziEiL, <b>(linux)</b> by Spirit_12
 * <b>dosprotect 		1.0.0.0-18(windows)</b> by ZombieX2.net、D1maxa <b>(linux broken)</b>
 * <b>tickrate 			1.4(windows)</b> 	    by ProdigySim、Spirit_12, <b>1.44(linux)</b> by Engine、aXe
+   * tickrate 1.4(windows) upper limit is 100, tickrate 1.44(linux) tickate upper limit is 128
 * <b>GameRules Tools 	1.0</b> 			    by psychonic
 * <b>voicehook.ext 		2.0</b> 			    by Accelerator74
 
