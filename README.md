@@ -1,5 +1,6 @@
 >click [here](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2019/11/03)
 # Linux Server Files/Windows Server Files
+>recommended system **win 10** for windows and **ubuntu** for linux
 * <b>SourceMod 			1.9.0-git6251</b> 	    by AlliedModders LLC
 * <b>MetaMod 			1.10.7-git966</b> 	    by AlliedModders LLC
 * <b>stripper 			1.2.2-hg82</b> 		    by BAILOPAN
@@ -8,7 +9,7 @@
 * <b>Left 4 Downtown 	0.4.7.5(windows)</b>    by Igor "Downtown1" Smirnov 、 Andrew "XBetaAlpha" Burrows 、 AtomicStryker 、 Michael "ProdigySim" Busby 、 Continued by: sentient & raziEiL, <b>(linux)</b> by Spirit_12
 * <b>dosprotect 		1.0.0.0-18(windows)</b> by ZombieX2.net、D1maxa <b>(linux broken)</b>
 * <b>tickrate 			1.4(windows)</b> 	    by ProdigySim、Spirit_12, <b>1.44(linux)</b> by Engine、aXe
-   * tickrate 1.4(windows) upper limit is 100, tickrate 1.44(linux) tickate upper limit is 128
+   * tickrate 1.4(windows) upper limit is **100**, tickrate 1.44(linux) tickate upper limit is **128**
 * <b>GameRules Tools 	1.0</b> 			    by psychonic
 * <b>voicehook.ext 		2.0</b> 			    by Accelerator74
 
