@@ -1,6 +1,6 @@
->click [here](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2019/11/03)
+> Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2019/11/03)
 # Linux Server Files/Windows Server Files
->recommended system **win 10** for windows and **ubuntu** for linux
+> Recommended system **win 10** for windows and **ubuntu** for linux
 * <b>SourceMod 			1.9.0-git6251</b> 	    by AlliedModders LLC
 * <b>MetaMod 			1.10.7-git966</b> 	    by AlliedModders LLC
 * <b>stripper 			1.2.2-hg82</b> 		    by BAILOPAN
@@ -59,7 +59,6 @@
 **Step 4:** finish downloading and quit.
 
 # Sourcemod Anti-Cheat
->click [here](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v2.0/Sourcemod_Anti-Cheat.zip) to download package
 [Sourcemod Anti-Cheat Wiki home](https://bitbucket.org/anticheat/smac/wiki/Home)
 * smac + smac_aimbot + smac_autotrigger + smac_client + smac_commands + smac_eyetest + smac_rcon + smac_speedhack + smac_spinhack + smac_cvars
 
