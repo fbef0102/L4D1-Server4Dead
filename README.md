@@ -1,6 +1,5 @@
+>click [here](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2019/11/03)
 # Linux Server Files/Windows Server Files
->click [here](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package
->last edited:2019/11/03
 * <b>SourceMod 			1.9.0-git6251</b> 	    by AlliedModders LLC
 * <b>MetaMod 			1.10.7-git966</b> 	    by AlliedModders LLC
 * <b>stripper 			1.2.2-hg82</b> 		    by BAILOPAN
