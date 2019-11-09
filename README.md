@@ -3,7 +3,7 @@
 > Recommended system **win 10** for windows and **ubuntu** for linux
 * <b>SourceMod 			1.9.0-git6251</b> 	    by AlliedModders LLC
 * <b>MetaMod 			1.10.7-git966</b> 	    by AlliedModders LLC
-* <b>stripper 			1.2.2-hg82</b> 		    by BAILOPAN
+* <b>stripper 			1.2.2-git129</b> 		by BAILOPAN
 * <b>l4dtoolz 			1.0.0.9f</b> 		    by ivailosp
 * <b>DHooks 			2.2.0-detours9</b> 	    by Dr!fter、Peace-Maker
 * <b>Left 4 Downtown 	0.4.7.5(windows)</b>    by Igor "Downtown1" Smirnov 、 Andrew "XBetaAlpha" Burrows 、 AtomicStryker 、 Michael "ProdigySim" Busby 、 Continued by: sentient & raziEiL, <b>(linux)</b> by Spirit_12
