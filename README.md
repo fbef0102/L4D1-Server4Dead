@@ -1,4 +1,4 @@
-> Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2019/11/09)
+> Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2019/11/14)
 # Linux Server Files/Windows Server Files
 > Recommended system **win 10** for windows and **ubuntu** for linux
 * <b>SourceMod 			1.9.0-git6251</b> 	    by AlliedModders LLC
@@ -11,7 +11,7 @@
 * <b>tickrate 			1.4(windows)</b> 	    by ProdigySim、Spirit_12, <b>1.44(linux)</b> by Engine、aXe
    * tickrate 1.4(windows) upper limit is **100**, tickrate 1.44(linux) tickate upper limit is **128**
 * <b>GameRules Tools 	1.0</b> 			    by psychonic
-* <b>voicehook.ext 		2.0</b> 			    by Accelerator74
+* <b>VoiceHook	 		2.0(windows)</b> 	    by Accelerator74, <b>3.0(linux)</b> by Dragokas
 
 **Step 1:** A [clean L4D1 Dedicated Server](https://github.com/fbef0102/L4D1-Server4Dead/blob/master/README.md#how-to-download-l4d1-dedicated-server-files).
 
