@@ -9,7 +9,6 @@
 * <b>Left 4 Downtown 	0.4.7.5(windows)</b>    by Igor "Downtown1" Smirnov 、 Andrew "XBetaAlpha" Burrows 、 AtomicStryker 、 Michael "ProdigySim" Busby 、 Continued by: sentient & raziEiL, <b>(linux)</b> by Spirit_12
 * <b>dosprotect 		1.0.0.0-18(windows)</b> by ZombieX2.net、D1maxa <b>(linux broken)</b>
 * <b>tickrate 			1.4(windows)</b> 	    by ProdigySim、Spirit_12, <b>1.44(linux)</b> by Engine、aXe
-   * tickrate 1.4(windows) upper limit is **100**, tickrate 1.44(linux) tickate upper limit is **128**
 * <b>GameRules Tools 	1.0</b> 			    by psychonic
 * <b>VoiceHook	 		2.0(windows)</b> 	    by Accelerator74, <b>3.0(linux)</b> by Dragokas
 
@@ -41,6 +40,7 @@
 
 **Step 4:** Change the Launch Parameters.
   * -console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0
+  * linux package now supports 128-tick.(Windows doesn't, so don't ask! :D)
   * If you're going to adjust your Tickrate above 100, you will run into Boomer Vomit Range issues. You will need to add   
   ***-frametime 0.037 -frametime_override 0.037*** to the launch parameters to resolve this, make sure to place them after the tickrate parameter.
 
