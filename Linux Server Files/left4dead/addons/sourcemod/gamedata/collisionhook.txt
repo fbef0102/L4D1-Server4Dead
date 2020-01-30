@@ -1,0 +1,23 @@
+
+/*
+ * quack
+*/
+
+"Games"
+{
+	"#default"
+	{
+		"Signatures"
+		{
+			"PassServerEntityFilter"
+			{
+				"library"	"server"
+				
+				"windows"	"??"
+				"linux"		"@_Z22PassServerEntityFilterPK13IHandleEntityS1_"
+			}
+		}
+	}
+}
+
+
