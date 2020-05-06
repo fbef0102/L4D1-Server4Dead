@@ -8,14 +8,14 @@
 * <b>DHooks 			2.2.0-detours9</b> 	    by Dr!fter、Peace-Maker
 * <b>Left 4 Downtown 	0.4.7.5(windows)</b>    by Igor "Downtown1" Smirnov 、 Andrew "XBetaAlpha" Burrows 、 AtomicStryker 、 Michael "ProdigySim" Busby 、 Continued by: sentient & raziEiL, <b>(linux)</b> by Spirit_12
 * <b>dosprotect 		1.0.0.0-18(windows)</b> by ZombieX2.net、D1maxa <b>(linux broken)</b>
-* <b>tickrate 			1.4(windows)</b> 	    by ProdigySim、Spirit_12, <b>1.44(linux)</b> by Engine、aXe
+* <b>tickrate 			1.4(windows)</b> 	    by ProdigySim、Spirit_12, <b>(linux)</b> by Harry、Cheng feng.
 * <b>GameRules Tools 	1.0</b> 			    by psychonic
 * <b>VoiceHook	 		2.0(windows)</b> 	    by Accelerator74, <b>3.0(linux)</b> by Dragokas
 * <b>CollisionHooks	 	0.2(linux)</b> 	    	by VoiDeD、Spirit_12, <b>None(windows broken)</b>
 
 **Step 1:** A [clean L4D1 Dedicated Server](https://github.com/fbef0102/L4D1-Server4Dead/blob/master/README.md#how-to-download-l4d1-dedicated-server-files).
 
-**Step 2:** Choose [Windows Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v2.0/Windows_Server_files.zip) or [Linux Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v2.0/Linux_Server_files.zip)(depending on the operating system of your server), and place the files provided in the correct folder.
+**Step 2:** Choose [Windows Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v3.0/Windows_Server_files.zip) or [Linux Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v3.0/Linux_Server_files.zip)(depending on the operating system of your server), and place the files provided in the correct folder.
 
 **Step 3:** Adjust your **server_rates.cfg** to match your rates accordingly.  
 * For 100 Tickrate, you'd want these settings:
@@ -41,7 +41,6 @@
 
 **Step 4:** Change the Launch Parameters.
   * -console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0
-  * linux package now supports 128-tick.(Windows doesn't, so don't ask! :D)
 
 # How to download L4D1 Dedicated Server files:
 **Warning: Don't try to download "Left 4 Dead Dedicated Server" from steam library, it's broken!! Use steamcmd instead.**
