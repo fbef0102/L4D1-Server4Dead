@@ -1,4 +1,4 @@
-> Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2020/6/22)
+> Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2020/7/12)
 # Linux Server Files/Windows Server Files
 > Recommended system **win 10** for windows and **ubuntu** for linux
 * <b>SourceMod 			1.9.0-git6251</b> 	    by AlliedModders LLC
@@ -31,13 +31,12 @@
 
 >sm_cvar sv_maxcmdrate 			"101"
 
->sm_cvar cl_cmdrate			"101"
-
->sm_cvar cl_updaterate 			"101"
-
 >sm_cvar rate				"100000"
 
+>sm_cvar net_splitpacket_maxrate "50000"
+
 >sm_cvar fps_max    "0"
+
 
 **Step 4:** Change the Launch Parameters.
   * -console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0
