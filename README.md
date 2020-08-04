@@ -1,17 +1,19 @@
-> Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2020/7/12)
+> Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2020/8/4)
 # Linux Server Files/Windows Server Files
 > Recommended system **win 10** for windows and **ubuntu** for linux
 * <b>SourceMod 			1.9.0-git6251</b> 	    by AlliedModders LLC
 * <b>MetaMod 			1.10.7-git966</b> 	    by AlliedModders LLC
 * <b>stripper 			1.2.2-git129</b> 		by BAILOPAN
 * <b>l4dtoolz 			1.0.0.9f</b> 		    by ivailosp
-* <b>DHooks 			2.2.0-detours14a</b> 	    by Dr!fter、Peace-Maker
+* <b>DHooks 			2.2.0-detours14a</b> 	by Dr!fter、Peace-Maker
 * <b>Left 4 Downtown 	0.4.7.5(windows)</b>    by Igor "Downtown1" Smirnov 、 Andrew "XBetaAlpha" Burrows 、 AtomicStryker 、 Michael "ProdigySim" Busby 、 Continued by: sentient & raziEiL, <b>(linux)</b> by Spirit_12
 * <b>dosprotect 		1.0.0.0-18(windows)</b> by ZombieX2.net、D1maxa <b>(linux broken)</b>
 * <b>tickrate 			1.4(windows)</b> 	    by ProdigySim、Spirit_12, <b>(linux)</b> by Harry、Cheng feng.
 * <b>GameRules Tools 	1.0</b> 			    by psychonic
 * <b>VoiceHook	 		2.0(windows)</b> 	    by Accelerator74, <b>3.0(linux)</b> by Dragokas
 * <b>CollisionHooks	 	0.2(linux)</b> 	    	by VoiDeD、Spirit_12, <b>None(windows broken)</b>
+* <b>socket				3.0.1</b> 	    		by sfPlayer
+* <b>smbz2				0.0.2</b> 	    		by thraaawn, peace-maker
 
 **Step 1:** A [clean L4D1 Dedicated Server](https://github.com/fbef0102/L4D1-Server4Dead/blob/master/README.md#how-to-download-l4d1-dedicated-server-files).
 
