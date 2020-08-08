@@ -1,3 +1,4 @@
+# If you appreciate my work, you can [PayPal Donate](https://paypal.me/Harry0215?locale.x=zh_TW) me.
 > Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2020/8/4)
 # Linux Server Files/Windows Server Files
 > Recommended system **win 10** for windows and **ubuntu** for linux
