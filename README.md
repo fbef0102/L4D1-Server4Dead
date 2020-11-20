@@ -7,7 +7,7 @@
 * <b>stripper 			1.2.2-git129</b> 		by BAILOPAN
 * <b>l4dtoolz 			1.0.0.9f</b> 		    by ivailosp
 * <b>DHooks 			2.2.0-detours14a</b> 	by Dr!fter、Peace-Maker
-* <b>Left 4 Downtown 	0.4.7.5(windows)</b>    by Igor "Downtown1" Smirnov 、 Andrew "XBetaAlpha" Burrows 、 AtomicStryker 、 Michael "ProdigySim" Busby 、 Continued by: sentient & raziEiL, <b>(linux)</b> by Spirit_12
+* <b>Left 4 Downtown 	0.4.7.5(windows)</b>    by Igor "Downtown1" Smirnov 、 Andrew "XBetaAlpha" Burrows 、 AtomicStryker 、 Michael "ProdigySim" Busby 、 Continued by: sentient & raziEiL, <b>(linux)</b> by Spirit_12、dragokas
 * <b>dosprotect 		1.0.0.0-18(windows)</b> by ZombieX2.net、D1maxa <b>(linux broken)</b>
 * <b>tickrate 			1.4(windows)</b> 	    by ProdigySim、Spirit_12, <b>(linux)</b> by Harry、Cheng feng.
 * <b>GameRules Tools 	1.0</b> 			    by psychonic
