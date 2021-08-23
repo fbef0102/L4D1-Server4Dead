@@ -1,15 +1,15 @@
 # If you appreciate my work, you can [PayPal Donate](https://paypal.me/Harry0215?locale.x=zh_TW) me.
-> Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2021/8/12)
+> Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2021/8/23)
 # Linux Server Files/Windows Server Files
 > Recommended system **win 10** for windows and **ubuntu** for linux
 * <b>SourceMod 			1.9.0-git6251</b> 	    by AlliedModders LLC
 * <b>MetaMod 			1.10.7-git966</b> 	    by AlliedModders LLC
 * <b>stripper 			1.2.2-git129</b> 		by BAILOPAN
 * <b>l4dtoolz 			1.0.0.9f</b> 		    by ivailosp
-* <b>DHooks 			2.2.0-detours14a</b> 	by Dr!fter、Peace-Maker
+* <b>DHooks 			2.2.0-detours17</b> 	by Dr!fter、Peace-Maker
 * <b>Left 4 Downtown 	0.4.7.5(windows)</b>    by Igor "Downtown1" Smirnov 、 Andrew "XBetaAlpha" Burrows 、 AtomicStryker 、 Michael "ProdigySim" Busby 、 Continued by: sentient & raziEiL, <b>(linux)</b> by Spirit_12、dragokas
 * <b>dosprotect 		1.0.0.0-18(windows)</b> by ZombieX2.net、D1maxa, <b>(linux broken)</b>
-* <b>Tickrate Enabler	1.4(windows)</b> 	    by ProdigySim、Spirit_12、Accelerator74.
+* <b>Tickrate Enabler	1.4</b> 	    		by ProdigySim、Spirit_12、Accelerator74.
 * <b>GameRules Tools 	1.0</b> 			    by psychonic
 * <b>VoiceHook	 		2.0(windows)</b> 	    by Accelerator74, <b>3.0(linux)</b> by Dragokas
 * <b>CollisionHooks	 	0.2(linux)</b> 	    	by VoiDeD、Spirit_12, <b>(windows broken)</b>
