@@ -15,7 +15,7 @@
 * <b>CollisionHooks	 	0.2(linux)</b> 	    	by VoiDeD、Spirit_12, <b>(windows broken)</b>
 * <b>socket				3.0.1</b> 	    		by sfPlayer
 * <b>smbz2				0.0.2</b> 	    		by thraaawn, peace-maker
-
+# Server Install
 **Step 1:** A [clean L4D1 Dedicated Server](https://github.com/fbef0102/L4D1-Server4Dead/blob/master/README.md#how-to-download-l4d1-dedicated-server-files).
 
 **Step 2:** Choose [Windows Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v3.0/Windows_Server_files.zip) or [Linux Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v3.0/Linux_Server_files.zip)(depending on the operating system of your server), and place the files provided in the correct folder.
