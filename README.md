@@ -1,24 +1,21 @@
 # If you appreciate my work, you can [PayPal Donate](https://paypal.me/Harry0215?locale.x=zh_TW) me.
-> Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2021/8/23)
+> Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package (last edited:2021/9/4)
 # Linux Server Files/Windows Server Files
-> Recommended system **win 10** for windows and **ubuntu** for linux
-* <b>SourceMod 			1.9.0-git6251</b> 	    by AlliedModders LLC
-* <b>MetaMod 			1.10.7-git966</b> 	    by AlliedModders LLC
+* <b>SourceMod 			1.10-git6510</b> 	    by AlliedModders LLC
+* <b>MetaMod 			1.11-git1145</b> 	    by AlliedModders LLC
 * <b>stripper 			1.2.2-git129</b> 		by BAILOPAN
-* <b>l4dtoolz 			1.0.0.9f</b> 		    by ivailosp
+* <b>l4dtoolz 			1.1.0.1</b> 		    by ivailosp、Accelerator74
 * <b>DHooks 			2.2.0-detours17</b> 	by Dr!fter、Peace-Maker
-* <b>Left 4 Downtown 	0.4.7.5(windows)</b>    by Igor "Downtown1" Smirnov 、 Andrew "XBetaAlpha" Burrows 、 AtomicStryker 、 Michael "ProdigySim" Busby 、 Continued by: sentient & raziEiL, <b>(linux)</b> by Spirit_12、dragokas
-* <b>dosprotect 		1.0.0.0-18(windows)</b> by ZombieX2.net、D1maxa, <b>(linux broken)</b>
-* <b>Tickrate Enabler	1.4</b> 	    		by ProdigySim、Spirit_12、Accelerator74.
-* <b>GameRules Tools 	1.0</b> 			    by psychonic
-* <b>VoiceHook	 		2.0(windows)</b> 	    by Accelerator74, <b>3.0(linux)</b> by Dragokas
-* <b>CollisionHooks	 	0.2(linux)</b> 	    	by VoiDeD、Spirit_12, <b>(windows broken)</b>
+* <b>Tickrate Enabler	1.4</b> 	    		by ProdigySim、Spirit_12、Accelerator74
+* <b>VoiceHook	 		3.0</b> 	    		by Accelerator74
 * <b>socket				3.0.1</b> 	    		by sfPlayer
-* <b>smbz2				0.0.2</b> 	    		by thraaawn, peace-maker
+* <b>geoipcity 			1.1.2</b> 				by GoD-Tony
+* <b>sourcescramble 	0.7.0</b> 				by nosoop
+* <b>CollisionHooks	 	0.2(linux only)</b> 	by VoiDeD、Spirit_12
 # Server Install
 **Step 1:** A [clean L4D1 Dedicated Server](https://github.com/fbef0102/L4D1-Server4Dead/blob/master/README.md#how-to-download-l4d1-dedicated-server-files).
 
-**Step 2:** Choose [Windows Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v3.0/Windows_Server_files.zip) or [Linux Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v3.0/Linux_Server_files.zip)(depending on the operating system of your server), and place the files provided in the correct folder.
+**Step 2:** Choose [Windows Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v4.0/Windows_Server_files.zip) or [Linux Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v4.0/Linux_Server_files.zip)(depending on the operating system of your server), and place the files provided in the correct folder.
 
 **Step 3:** Adjust your **server_rates.cfg** to match your rates accordingly.  
 * For 100 Tickrate, you'd want these settings:
@@ -59,8 +56,10 @@
 **Step 4:** finish downloading and quit.
 
 # Sourcemod Anti-Cheat
-[Sourcemod Anti-Cheat Wiki home](https://bitbucket.org/anticheat/smac/wiki/Home)
-* smac + smac_aimbot + smac_autotrigger + smac_client + smac_commands + smac_eyetest + smac_rcon + smac_speedhack + smac_spinhack + smac_cvars
+> [SMAC Wiki](https://github.com/Silenci0/SMAC/wiki)
+
+> [SMAC 0.8.7.3 fork](https://github.com/Silenci0/SMAC)
+* smac + smac_aimbot + smac_autotrigger + smac_client + smac_commands + smac_cvars + smac_rcon + smac_speedhack + smac_spinhack
 
 # Others
 * <b>[L4D1-Competitive-Plugins](https://github.com/fbef0102/L4D1-Competitive-Plugins)</b>: L4D1 Competitive enhancement, bug/glitch fixes, general purpose and freaky-fun plugins.
