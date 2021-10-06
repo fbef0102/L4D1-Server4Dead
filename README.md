@@ -6,7 +6,7 @@
 * <b>stripper 			1.2.2-git129</b> 		by BAILOPAN
 * <b>l4dtoolz 			1.1.0.1</b> 		    by ivailosp、Accelerator74
 * <b>DHooks 			2.2.0-detours17</b> 	by Dr!fter、Peace-Maker
-* <b>Tickrate Enabler	1.4</b> 	    		by ProdigySim、Spirit_12、Accelerator74
+* <b>Tickrate Enabler	1.5</b> 	    		by ProdigySim、Spirit_12、Accelerator74
 * <b>VoiceHook	 		3.0</b> 	    		by Accelerator74
 * <b>socket				3.0.1</b> 	    		by sfPlayer
 * <b>geoipcity 			1.1.2</b> 				by GoD-Tony
