@@ -1,7 +1,7 @@
 # If you appreciate my work, you can [PayPal Donate](https://paypal.me/Harry0215?locale.x=zh_TW) me.
 > Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package
 # Linux Server Files/Windows Server Files
-* <b>SourceMod 			1.10-git6510</b> 	    by AlliedModders LLC
+* <b>SourceMod 			1.10-git6522</b> 	    by AlliedModders LLC
 * <b>MetaMod 			1.11-git1145</b> 	    by AlliedModders LLC
 * <b>stripper 			1.2.2-git129</b> 		by BAILOPAN
 * <b>l4dtoolz 			1.1.0.1</b> 		    by ivailosp、Accelerator74
