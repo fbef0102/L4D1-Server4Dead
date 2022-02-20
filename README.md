@@ -10,7 +10,7 @@
 * <b>VoiceHook	 		3.0</b> 	    		by Accelerator74
 * <b>geoipcity 			1.1.2</b> 				by GoD-Tony
 * <b>REST in Pawn		1.3.1</b>				by ErikMinekus
-* <b>SteamWorks			1.2.3</b>				by KyleS & hexa-core-eu
+* <b>socket				3.0.2</b>				by sfPlayer & JoinedSenses
 * <b>sourcescramble 	0.7.0</b> 				by nosoop
 * <b>CollisionHooks	 	0.2(linux only)</b> 	by VoiDeD、Spirit_12
 # Server Install
