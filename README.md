@@ -12,7 +12,7 @@
 * <b>REST in Pawn		1.3.1</b>				by ErikMinekus
 * <b>socket				3.0.2</b>				by sfPlayer & JoinedSenses
 * <b>sourcescramble 	0.7.0</b> 				by nosoop
-* <b>CollisionHooks	 	0.2(linux only)</b> 	by VoiDeD、Spirit_12
+* <b>CollisionHooks	 	0.2</b> 				by VoiDeD、Spirit_12、A1mDev
 # Server Install
 **Step 1:** A [clean L4D1 Dedicated Server](https://github.com/fbef0102/L4D1-Server4Dead/blob/master/README.md#how-to-download-l4d1-dedicated-server-files).
 
