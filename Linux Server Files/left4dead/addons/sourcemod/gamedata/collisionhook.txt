@@ -5,8 +5,10 @@
 		"Signatures"
 		{
 			/* Credit:
-			 * ext remake by A1mDev: https://github.com/L4D-Community/Collisionhook/tree/fix-windows
-			 * signature by Crasher_3637: https://github.com/Psykotikism/L4D1-2_Signatures/blob/main/l4d1/gamedata/l4d1_signatures.txt
+			 * Original Ext by VoiDeD: https://forums.alliedmods.net/showthread.php?t=197815
+			 * Ext remake by A1mDev: https://github.com/L4D-Community/Collisionhook/tree/fix-windows
+			 * Signature by Psykotikism: https://github.com/Psykotikism/L4D1-2_Signatures/blob/main/l4d1/gamedata/l4d1_signatures.txt
+			 * Big Tanks to them, finally l4d1 windows won't crash
 			*/
 			"PassServerEntityFilter"
 			{
