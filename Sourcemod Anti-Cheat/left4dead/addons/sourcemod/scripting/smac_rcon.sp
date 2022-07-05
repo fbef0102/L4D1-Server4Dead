@@ -21,6 +21,7 @@
 
 /* SM Includes */
 #include <sourcemod>
+#include <sdktools>
 #include <smac>
 #undef REQUIRE_EXTENSIONS
 #tryinclude <smrcon> 

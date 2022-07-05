@@ -1,11 +1,10 @@
 # If you appreciate my work, you can [PayPal Donate](https://paypal.me/Harry0215?locale.x=zh_TW) me.
 > Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package
 # Linux Server Files/Windows Server Files
-* <b>SourceMod 			1.10-git6528</b> 	    by AlliedModders LLC
-* <b>MetaMod 			1.11-git1145</b> 	    by AlliedModders LLC
+* <b>SourceMod 			1.11-git6905</b> 	    by AlliedModders LLC
+* <b>MetaMod 			1.11-git1148</b> 	    by AlliedModders LLC
 * <b>stripper 			1.2.2-git129</b> 		by BAILOPAN
 * <b>l4dtoolz 			1.1.0.1</b> 		    by ivailosp、Accelerator74
-* <b>DHooks 			2.2.0-detours17</b> 	by Dr!fter、Peace-Maker
 * <b>Tickrate Enabler	1.5</b> 	    		by ProdigySim、Spirit_12、Accelerator74
 * <b>VoiceHook	 		3.0</b> 	    		by Accelerator74
 * <b>geoipcity 			1.1.2</b> 				by GoD-Tony

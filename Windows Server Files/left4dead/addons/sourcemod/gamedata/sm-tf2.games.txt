@@ -140,9 +140,9 @@
 
 			"RemoveWearable"
 			{
-				"windows"	"435"
-				"linux"		"436"
-				"mac"		"436"
+				"windows"	"436"
+				"linux"		"437"
+				"mac"		"437"
 			}
 		}
 	}
@@ -165,6 +165,7 @@
 			"TFHoliday_HalloweenOrFullMoon"				"9"
 			"TFHoliday_HalloweenOrFullMoonOrValentines"	"10"
 			"TFHoliday_AprilFools"		"11"
+			"TFHoliday_Soldier"			"12"
 		}
 	}
 }

@@ -199,7 +199,7 @@ public void Teleport_OnEndTouch(const char[] output, int caller, int activator, 
     }
 }
 
-public Action Event_PlayerSpawn(Event event, const char[] name, bool dontBroadcast)
+public void Event_PlayerSpawn(Event event, const char[] name, bool dontBroadcast)
 {
     int userid = event.GetInt("userid");
     int client = GetClientOfUserId(userid);
@@ -211,7 +211,7 @@ public Action Event_PlayerSpawn(Event event, const char[] name, bool dontBroadca
     }
 }
 
-public Action Event_PlayerDeath(Event event, const char[] name, bool dontBroadcast)
+public void Event_PlayerDeath(Event event, const char[] name, bool dontBroadcast)
 {
     char sWeapon[32], dummy;
     //GetEventString(event, "weapon", sWeapon, sizeof(sWeapon));
@@ -238,7 +238,7 @@ public Action Event_PlayerDeath(Event event, const char[] name, bool dontBroadca
     }
 }
 
-public Action Event_EntityKilled(Event event, const char[] name, bool dontBroadcast)
+public void Event_EntityKilled(Event event, const char[] name, bool dontBroadcast)
 {
     /* (OB Only) Inflictor support lets us ignore non-bullet weapons. */
     int victim = event.GetInt("entindex_killed");
@@ -266,7 +266,7 @@ public Action Event_EntityKilled(Event event, const char[] name, bool dontBroadc
     }
 }
 
-public Action TF2_Event_PlayerDeath(Event event, const char[] name, bool dontBroadcast)
+public void TF2_Event_PlayerDeath(Event event, const char[] name, bool dontBroadcast)
 {
     /* TF2 custom death event */
     int victim = GetClientOfUserId(GetEventInt(event, "userid"));
