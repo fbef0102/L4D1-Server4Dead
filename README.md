@@ -1,17 +1,20 @@
 # If you appreciate my work, you can [PayPal Donate](https://paypal.me/Harry0215?locale.x=zh_TW) me.
 > Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package
 # Linux Server Files/Windows Server Files
-* <b>SourceMod 			1.11-git6905</b> 	    by AlliedModders LLC
-* <b>MetaMod 			1.11-git1148</b> 	    by AlliedModders LLC
-* <b>stripper 			1.2.2-git129</b> 		by BAILOPAN
-* <b>l4dtoolz 			1.1.0.1</b> 		    by ivailosp、Accelerator74
-* <b>Tickrate Enabler	1.5</b> 	    		by ProdigySim、Spirit_12、Accelerator74
-* <b>VoiceHook	 		3.0</b> 	    		by Accelerator74
-* <b>geoipcity 			1.1.2</b> 				by GoD-Tony
-* <b>REST in Pawn		1.3.1</b>				by ErikMinekus
-* <b>socket				3.0.2</b>				by sfPlayer & JoinedSenses
-* <b>sourcescramble 	0.7.0</b> 				by nosoop
-* <b>CollisionHooks	 	0.2</b> 				by VoiDeD、Spirit_12、A1mDev
+* Main
+	* <b>[SourceMod](https://www.sourcemod.net/downloads.php?branch=1.11-dev) 			1.11-git6905</b> 	    by AlliedModders LLC
+	* <b>[MetaMod](https://www.sourcemm.net/downloads.php?branch=1.11-dev) 			1.11-git1148</b> 	    by AlliedModders LLC
+	* <b>[stripper](https://www.bailopan.net/stripper/snapshots/1.2/) 			1.2.2-git129</b> 		by BAILOPAN
+	* <b>[l4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases) 			1.1.0.2</b> 		    by ivailosp、Accelerator74
+	* <b>[Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases)	1.5</b> 	    		by ProdigySim、Spirit_12、Accelerator74
+
+* Extenstion
+	* <b>[voicehook](https://forums.alliedmods.net/showthread.php?t=279231)	 		3.0</b> 	    		by Accelerator74
+	* <b>[geoipcity](https://forums.alliedmods.net/showthread.php?t=132470) 			1.1.2</b> 				by GoD-Tony
+	* <b>[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)		1.3.1</b>				by ErikMinekus
+	* <b>[socket](https://github.com/JoinedSenses/sm-ext-socket/releases)				3.0.2</b>				by sfPlayer & JoinedSenses
+	* <b>[sourcescramble](https://github.com/nosoop/SMExt-SourceScramble/releases) 	0.7.0</b> 				by nosoop
+	* <b>CollisionHooks	 	0.2</b> 				by [VoiDeD](https://forums.alliedmods.net/showthread.php?t=197815)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook/tree/fix-windows)
 # Server Install
 **Step 1:** A [clean L4D1 Dedicated Server](https://github.com/fbef0102/L4D1-Server4Dead/blob/master/README.md#how-to-download-l4d1-dedicated-server-files).
 
