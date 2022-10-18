@@ -13,7 +13,7 @@
 	* <b>[geoipcity](https://forums.alliedmods.net/showthread.php?t=132470) 			1.1.2</b> 				by GoD-Tony - Get the city names from an IP address
 	* <b>[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)		1.3.1</b>				by ErikMinekus - Provides HTTP and JSON natives for plugins
 	* <b>[socket](https://github.com/JoinedSenses/sm-ext-socket/releases)				3.0.2</b>				by sfPlayer & JoinedSenses - Provides networking functionality for SourceMod scripts
-	* <b>[sourcescramble](https://github.com/nosoop/SMExt-SourceScramble/releases) 	0.7.0</b> 				by nosoop - Memory patches & allocate memory
+	* <b>[sourcescramble](https://github.com/nosoop/SMExt-SourceScramble/releases) 	0.7.1</b> 				by nosoop - Memory patches & allocate memory
 	* <b>CollisionHooks	 	0.2</b> 				by [VoiDeD](https://forums.alliedmods.net/showthread.php?t=197815)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook/tree/fix-windows) - Provides a straightforward and easy way to hook and modify collision rules between entities.
 # Server Install
 **Step 1:** A [clean L4D1 Dedicated Server](https://github.com/fbef0102/L4D1-Server4Dead/blob/master/README.md#how-to-download-l4d1-dedicated-server-files).
