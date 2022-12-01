@@ -14,10 +14,6 @@
 		* **v1.5** by ProdigySim、Spirit_12、Accelerator74
 
 * Extenstion
-	* **[voicehook](https://forums.alliedmods.net/showthread.php?t=279231)** - The player who at the moment speak.
-		* **v3.0** by Accelerator74 
-	* **[geoipcity](https://forums.alliedmods.net/showthread.php?t=132470)** - Get the city names from an IP address
-		* **v1.1.2** by GoD-Tony 
 	* **[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)** - Provides HTTP and JSON natives for plugins
 		* **v1.3.1** by ErikMinekus 
 	* **[socket](https://github.com/JoinedSenses/sm-ext-socket/releases)** - Provides networking functionality for SourceMod scripts
