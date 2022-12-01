@@ -2,19 +2,37 @@
 > Click [HERE](https://github.com/fbef0102/L4D1-Server4Dead/releases) to download package
 # Linux Server Files/Windows Server Files
 * Main
-	* <b>[SourceMod](https://www.sourcemod.net/downloads.php?branch=1.11-dev) 			1.11-git6905</b> 	    by AlliedModders LLC
-	* <b>[MetaMod](https://www.sourcemm.net/downloads.php?branch=1.11-dev) 			1.11-git1148</b> 	    by AlliedModders LLC
-	* <b>[stripper](https://www.bailopan.net/stripper/snapshots/1.2/) 			1.2.2-git129</b> 		by BAILOPAN
-	* <b>[l4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases) 			1.1.0.2</b> 		    by ivailosp、Accelerator74 - Unlock Server Slot Limit
-	* <b>[Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases)	1.5</b> 	    		by ProdigySim、Spirit_12、Accelerator74 - Unlock Tickrate
+	* **[SourceMod](https://www.sourcemod.net/downloads.php?branch=1.11-dev)**
+		* **v1.11-git6919** by AlliedModders LLC
+	* **[MetaMod](https://www.sourcemm.net/downloads.php?branch=1.11-dev)**
+		* **v1.11-git1148** by AlliedModders LLC
+	* **[stripper](https://www.bailopan.net/stripper/snapshots/1.2/)** - Add, filter and modify map entities
+		* **v1.2.2-git129** by BAILOPAN
+	* **[l4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases)** - Unlock Server Slot Limit
+		* **v1.1.0.2** by ivailosp、Accelerator74
+	* **[Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases)** - Unlock Tickrate
+		* **v1.5** by ProdigySim、Spirit_12、Accelerator74
 
 * Extenstion
-	* <b>[voicehook](https://forums.alliedmods.net/showthread.php?t=279231)	 		3.0</b> 	    		by Accelerator74 - The player who at the moment speak.
-	* <b>[geoipcity](https://forums.alliedmods.net/showthread.php?t=132470) 			1.1.2</b> 				by GoD-Tony - Get the city names from an IP address
-	* <b>[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)		1.3.1</b>				by ErikMinekus - Provides HTTP and JSON natives for plugins
-	* <b>[socket](https://github.com/JoinedSenses/sm-ext-socket/releases)				3.0.2</b>				by sfPlayer & JoinedSenses - Provides networking functionality for SourceMod scripts
-	* <b>[sourcescramble](https://github.com/nosoop/SMExt-SourceScramble/releases) 	0.7.0</b> 				by nosoop - Memory patches & allocate memory
-	* <b>CollisionHooks	 	0.2</b> 				by [VoiDeD](https://forums.alliedmods.net/showthread.php?t=197815)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook/tree/fix-windows) - Provides a straightforward and easy way to hook and modify collision rules between entities.
+	* **[voicehook](https://forums.alliedmods.net/showthread.php?t=279231)** - The player who at the moment speak.
+		* **v3.0** by Accelerator74 
+	* **[geoipcity](https://forums.alliedmods.net/showthread.php?t=132470)** - Get the city names from an IP address
+		* **v1.1.2** by GoD-Tony 
+	* **[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)** - Provides HTTP and JSON natives for plugins
+		* **v1.3.1** by ErikMinekus 
+	* **[socket](https://github.com/JoinedSenses/sm-ext-socket/releases)** - Provides networking functionality for SourceMod scripts
+		* **v3.0.2** by sfPlayer & JoinedSenses 
+	* **[sourcescramble](https://github.com/nosoop/SMExt-SourceScramble/releases)** - Memory patches & allocate memory
+		* **v0.7.0** by nosoop
+	* **CollisionHooks** - Provides a straightforward and easy way to hook and modify collision rules between entities.
+		* **v0.2** by [VoiDeD](https://forums.alliedmods.net/showthread.php?t=197815)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook/tree/fix-windows) 
+
+* Extra File
+	* **[GeoLite2-City](https://www.maxmind.com/en/home)** - addons\sourcemod\configs\geoip\GeoLite2-City.mmdb
+		* **2022-11-29** by MAXMIND
+	* **[GeoLite2-Country](https://www.maxmind.com/en/home)** - addons\sourcemod\configs\geoip\GeoLite2-Country.mmdb
+		* **2022-11-29** by MAXMIND
+
 # Server Install
 **Step 1:** A [clean L4D1 Dedicated Server](https://github.com/fbef0102/L4D1-Server4Dead/blob/master/README.md#how-to-download-l4d1-dedicated-server-files).
 
@@ -22,27 +40,21 @@
 
 **Step 3:** Adjust your **server_rates.cfg** to match your rates accordingly.  
 * For 100 Tickrate, you'd want these settings:
->sm_cvar sv_minrate 			"100000"
-
->sm_cvar sv_maxrate 			"100000"
-
->sm_cvar sv_minupdaterate 		"101"
-
->sm_cvar sv_maxupdaterate 		"101"
-
->sm_cvar sv_mincmdrate 			"101"
-
->sm_cvar sv_maxcmdrate 			"101"
-
->sm_cvar rate				"100000"
-
->sm_cvar net_splitpacket_maxrate "50000"
-
->sm_cvar fps_max    "0"
+	```php
+	sm_cvar sv_minrate 				"100000"
+	sm_cvar sv_maxrate 				"100000"
+	sm_cvar sv_minupdaterate 		"101"
+	sm_cvar sv_maxupdaterate 		"101"
+	sm_cvar sv_mincmdrate 			"101"
+	sm_cvar sv_maxcmdrate 			"101"
+	sm_cvar rate					"100000"
+	sm_cvar net_splitpacket_maxrate "50000"
+	sm_cvar fps_max    				"0"
+	```
 
 
 **Step 4:** Change the Launch Parameters.
-  * -console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0
+* ```-console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0```
 
 # How to download L4D1 Dedicated Server files:
 **Warning: Don't try to download "Left 4 Dead Dedicated Server" from steam library, it's broken!! Use steamcmd instead.**
@@ -52,16 +64,15 @@
 **Step 2:** launch steamcmd , steamcmd would automatically download required files .
 
 **Step 3:** after it says "Loading Steam API...OK.", type
-* force_install_dir ./l4d1/
-* login anonymous
-* app_update 222840 validate
+* ```force_install_dir ./l4d2/```
+* ```login anonymous```
+* ```app_update 222860 validate```
 
 **Step 4:** finish downloading and quit.
 
 # Sourcemod Anti-Cheat
-> [SMAC Wiki](https://github.com/Silenci0/SMAC/wiki)
-
-> [SMAC 0.8.7.3 fork](https://github.com/Silenci0/SMAC)
+* [SMAC Wiki](https://github.com/Silenci0/SMAC/wiki)
+* [SMAC 0.8.7.3 fork](https://github.com/Silenci0/SMAC)
 * smac + smac_aimbot + smac_autotrigger + smac_client + smac_commands + smac_cvars + smac_rcon + smac_speedhack + smac_spinhack
 
 # Others

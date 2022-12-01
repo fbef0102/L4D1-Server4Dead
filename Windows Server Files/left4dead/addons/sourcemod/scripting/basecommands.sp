@@ -98,7 +98,7 @@ public void OnPluginStart()
 	ProtectVar("rcon_password");
 	ProtectVar("sm_show_activity");
 	ProtectVar("sm_immunity_mode");
-
+	
 	sv_cheats = FindConVar("sv_cheats");
 	iCheats = sv_cheats.IntValue;
 	sv_cheats.AddChangeHook(ConVarChanged_Cvars);
