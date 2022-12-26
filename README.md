@@ -19,7 +19,7 @@
 	* **[socket](https://github.com/JoinedSenses/sm-ext-socket/releases)** - Provides networking functionality for SourceMod scripts
 		* **v3.0.2** by sfPlayer & JoinedSenses 
 	* **[sourcescramble](https://github.com/nosoop/SMExt-SourceScramble/releases)** - Memory patches & allocate memory
-		* **v0.7.0** by nosoop
+		* **v0.7.1** by nosoop
 	* **CollisionHooks** - Provides a straightforward and easy way to hook and modify collision rules between entities.
 		* **v0.2** by [VoiDeD](https://forums.alliedmods.net/showthread.php?t=197815)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook/tree/fix-windows) 
 
