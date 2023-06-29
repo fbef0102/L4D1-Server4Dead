@@ -82,7 +82,6 @@
 * smac + smac_aimbot + smac_autotrigger + smac_client + smac_commands + smac_cvars + smac_rcon + smac_speedhack + smac_spinhack
 
 # Others
-* <b>[L4D1-Competitive-Plugins](https://github.com/fbef0102/L4D1-Competitive-Plugins)</b>: L4D1 Competitive enhancement, bug/glitch fixes, general purpose and freaky-fun plugins.
 * <b>[Rotoblin-AZMod](https://github.com/fbef0102/Rotoblin-AZMod)</b>: A Competitive L4D1 Versus Configuration
 * <b>[L4D1_2-Plugins](https://github.com/fbef0102/L4D1_2-Plugins)</b>: L4D1/2 general purpose and freaky-fun plugins.
 * <b>[Game-Private_Plugin](https://github.com/fbef0102/Game-Private_Plugin)</b>: Private Plugin List.
