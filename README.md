@@ -18,6 +18,14 @@
 		* **v1.5** by ProdigySim、Spirit_12、Accelerator74
 
 * Extenstion
+	* **DoS Protect** - Prevents and records attempted DoS (Denial-of-Service) attacks
+		* **v1.1.0.0** by [Zephyrus](https://forums.alliedmods.net/showthread.php?t=196990)
+		* **[windows](https://github.com/cravenge/DoS-Protect_SM)** by cravenge
+			```php
+			//print all logged attacks, the number of packets received and the time of the last one.
+			dosp_attacks 
+			```
+			
 	* **[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)** - Provides HTTP and JSON natives for plugins
 		* **v1.3.1** by ErikMinekus 
 
