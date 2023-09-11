@@ -147,7 +147,7 @@ public void OnPluginStart()
     AddCvar(Order_Last, "sv_allowminmodels",            Comp_Replicated, Action_Kick);
     AddCvar(Order_Last, "sv_cheats",                    Comp_Replicated, Action_Kick);
     AddCvar(Order_Last, "sv_competitive_minspec",       Comp_Replicated, Action_Kick);
-    AddCvar(Order_Last, "sv_consistency",               Comp_Replicated, Action_Kick);
+    //AddCvar(Order_Last, "sv_consistency",               Comp_Replicated, Action_Kick);
     AddCvar(Order_Last, "sv_footsteps",                 Comp_Replicated, Action_Kick);
     AddCvar(Order_Last, "vcollide_wireframe",           Comp_Equal, Action_Ban, "0.0");
     
