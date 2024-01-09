@@ -49,7 +49,7 @@
 		* **2023-05-19** by MAXMIND
 
 # Server Install
-* **Step 1:** A [clean L4D1 Dedicated Server](https://github.com/fbef0102/L4D1-Server4Dead/blob/master/README.md#how-to-download-l4d1-dedicated-server-files).
+* **Step 1:** A [clean L4D1 Dedicated Server](#how-to-download-l4d1-dedicated-server-files).
 
 * **Step 2:** Choose [Windows Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v4.0/Windows_Server_files.zip) or [Linux Server files](https://github.com/fbef0102/L4D1-Server4Dead/releases/download/v4.0/Linux_Server_files.zip)(depending on the operating system of your server), and place the files provided in the correct folder.
 
@@ -75,7 +75,7 @@
 # How to download L4D1 Dedicated Server files:
 **Warning: Don't try to download "Left 4 Dead Dedicated Server" from steam library, it's broken!! Use steamcmd instead.**
 
-* **Step 1:** download [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD).
+* **Step 1:** [Download SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD).
 
 * **Step 2:** launch steamcmd , steamcmd would automatically download required files .
 
