@@ -153,11 +153,14 @@ public void OnPluginStart()
             SetTrieValue(g_hBlockedCmds, "demo_returntolobby", Action_Block);
             SetTrieValue(g_hIgnoredCmds, "choose_closedoor", true);
             SetTrieValue(g_hIgnoredCmds, "choose_opendoor", true);
+            SetTrieValue(g_hIgnoredCmds, "z_spawn", true);
         }
         case Game_L4D2:
         {
             SetTrieValue(g_hIgnoredCmds, "choose_closedoor", true);
             SetTrieValue(g_hIgnoredCmds, "choose_opendoor", true);
+            SetTrieValue(g_hIgnoredCmds, "z_spawn_old", true);
+            SetTrieValue(g_hIgnoredCmds, "z_spawn", true);
         }
         case Game_ND:
         {
@@ -412,14 +415,14 @@ public Action Command_CommandListener(int client, const char[] command,int argc)
             {
                 if (cAction == Action_Ban)
                 {
-                    SMAC_PrintAdminNotice("%N was banned for command: %s %s", client, command, sArgString);
-                    SMAC_LogAction(client, "was banned for command: %s %s", command, sArgString);
+                    SMAC_PrintAdminNotice("%N was banned for command: %s, Arg: %s", client, command, sArgString);
+                    SMAC_LogAction(client, "was banned for command: %s, Arg: %s", command, sArgString);
                     SMAC_Ban(client, "Command %s violation", command);
                 }
                 else if (cAction == Action_Kick)
                 {
-                    SMAC_PrintAdminNotice("%N was kicked for command: %s %s", client, command, sArgString);
-                    SMAC_LogAction(client, "was kicked for command: %s %s", command, sArgString);
+                    SMAC_PrintAdminNotice("%N was kicked for command: %s, Arg: %s", client, command, sArgString);
+                    SMAC_LogAction(client, "was kicked for command: %s, Arg: %s", command, sArgString);
                     KickClient(client, "Command %s violation", command);
                 }
                 else
@@ -433,7 +436,7 @@ public Action Command_CommandListener(int client, const char[] command,int argc)
         
         return Plugin_Stop;
     }
-    
+
     if (g_iCmdSpamLimit && !GetTrieValue(g_hIgnoredCmds, command, cAction) && ++g_iCmdCount[client] > g_iCmdSpamLimit)
     {
         char sArgString[192];
@@ -447,14 +450,14 @@ public Action Command_CommandListener(int client, const char[] command,int argc)
         {
             if (GetConVarInt(g_hCvarCmdSpmKick) == 1)
             {
-                SMAC_PrintAdminNotice("%N was kicked for spamming: %s %s", client, command, sArgString);
-                SMAC_LogAction(client, "was kicked for spamming: %s %s", command, sArgString);
+                SMAC_PrintAdminNotice("%N was kicked for spamming: %s, Arg: %s", client, command, sArgString);
+                SMAC_LogAction(client, "was kicked for spamming: %s, Arg: %s", command, sArgString);
                 KickClient(client, "%t", "SMAC_CommandSpamKick");
             }
             else if (GetConVarInt(g_hCvarCmdSpmKick) == 0)
             {
-                SMAC_PrintAdminNotice("%N looks to be spamming commands: %s %s", client, command, sArgString);
-                SMAC_LogAction(client, "looks to be spamming commands: %s %s", command, sArgString);
+                SMAC_PrintAdminNotice("%N looks to be spamming commands: %s, Arg: %s", client, command, sArgString);
+                SMAC_LogAction(client, "looks to be spamming commands: %s, Arg: %s", command, sArgString);
             }
             else
             {   
