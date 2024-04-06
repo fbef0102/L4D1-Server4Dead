@@ -18,14 +18,6 @@
 		* **v1.5** by ProdigySim、Spirit_12、Accelerator74
 
 * Extenstion
-	* **DoS Protect** - Prevents and records attempted DoS (Denial-of-Service) attacks
-		* **v1.1.0.0** by [Zephyrus](https://forums.alliedmods.net/showthread.php?t=196990)
-		* **[windows](https://github.com/cravenge/DoS-Protect_SM)** by cravenge
-			```php
-			//print all logged attacks, the number of packets received and the time of the last one.
-			dosp_attacks 
-			```
-			
 	* **[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)** - Provides HTTP and JSON natives for plugins
 		* **v1.3.1** by ErikMinekus 
 
@@ -38,8 +30,8 @@
 	* **[Actions](https://forums.alliedmods.net/showthread.php?t=336374)** - Extension provides a natives to hook action event handlers and create custom actions
 		* **v3.6.4** by BHaType
 
-	* **CollisionHooks** - Provides a straightforward and easy way to hook and modify collision rules between entities.
-		* **v1.2** by [VoiDeD](https://forums.alliedmods.net/showthread.php?t=197815)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook/actions) 
+	* **[CollisionHooks](https://github.com/voided/CollisionHook)** - Provides a straightforward and easy way to hook and modify collision rules between entities.
+		* **v1.1.0** by VoiDeD
 
 * Extra File
 	* **[GeoLite2-City](https://www.maxmind.com/en/home)** - addons\sourcemod\configs\geoip\GeoLite2-City.mmdb
