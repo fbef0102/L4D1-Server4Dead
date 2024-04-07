@@ -31,7 +31,7 @@
 		* **v3.6.4** by BHaType
 
 	* **[CollisionHooks](https://github.com/voided/CollisionHook)** - Provides a straightforward and easy way to hook and modify collision rules between entities.
-		* **v1.1.0** by VoiDeD
+		* **v1.2.0** by VoiDeD
 
 * Extra File
 	* **[GeoLite2-City](https://www.maxmind.com/en/home)** - addons\sourcemod\configs\geoip\GeoLite2-City.mmdb
