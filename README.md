@@ -28,10 +28,10 @@
 		* **v0.7.1.1** by nosoop
 
 	* **[Actions](https://forums.alliedmods.net/showthread.php?t=336374)** - Extension provides a natives to hook action event handlers and create custom actions
-		* **v3.6.4** by BHaType
+		* **v3.7.6** by BHaType
 
-	* **[CollisionHooks](https://github.com/voided/CollisionHook)** - Provides a straightforward and easy way to hook and modify collision rules between entities.
-		* **v1.2.0** by VoiDeD
+	* **CollisionHooks** - Provides a straightforward and easy way to hook and modify collision rules between entities.
+		* **v1.3** by [VoiDeD](https://github.com/voided/CollisionHook)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook)
 
 * Extra File
 	* **[GeoLite2-City](https://www.maxmind.com/en/home)** - addons\sourcemod\configs\geoip\GeoLite2-City.mmdb
