@@ -107,6 +107,15 @@
 		yum install zlib.i686
 		```
 
+# Optional Files
+* Extension
+	* **[cutlrbtreefix](https://github.com/fdxx/cutlrbtreefix/releases)** - Fixed server crash "CUtlRBTree overflow"
+		* **v0.2** by fdxx
+
+	* **[Accelerator](https://forums.alliedmods.net/showthread.php?t=277703)** - Crash Reporting That Doesn't Suck
+		* **v2.5.0-cd575aa** by asherkin
+		* 🟥 After 2024/5/2 update, brokn in Linux system
+
 # Sourcemod Anti-Cheat
 * [SMAC Wiki](https://github.com/Silenci0/SMAC/wiki)
 * [SMAC 0.8.7.3 fork](https://github.com/Silenci0/SMAC)
