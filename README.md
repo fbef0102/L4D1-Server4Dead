@@ -62,7 +62,7 @@
 
 * **Step 4:** Change the Launch Parameters.
 	```
-	-console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0 -maxplayers 32
+	-console -game left4dead -tickrate 100 +log on +map l4d_vs_airport01_greenhouse +exec server +sv_lan 0 -maxplayers 31
 	```
 
 # How to download L4D1 Dedicated Server files:
