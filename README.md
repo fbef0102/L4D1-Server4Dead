@@ -116,12 +116,9 @@
 		* **v2.5.0-cd575aa** by asherkin
 		* 🟥 After 2024/5/2 update, broken in Linux system
 
-# Sourcemod Anti-Cheat
-* [SMAC Wiki](https://github.com/Silenci0/SMAC/wiki)
-* [SMAC 0.8.7.3 fork](https://github.com/Silenci0/SMAC)
-* smac + smac_aimbot + smac_autotrigger + smac_client + smac_commands + smac_cvars + smac_rcon + smac_speedhack + smac_spinhack
-
 # Others
 * <b>[Rotoblin-AZMod](https://github.com/fbef0102/Rotoblin-AZMod)</b>: A Competitive L4D1 Versus Configuration
 * <b>[L4D1_2-Plugins](https://github.com/fbef0102/L4D1_2-Plugins)</b>: L4D1/2 general purpose and freaky-fun plugins.
+* <b>[Sourcemod Anti-Cheat-SMAC](https://github.com/fbef0102/SMAC)</b>: Server-side plugin comprised of different modules to help protect your gameserver against cheaters.
+* <b>[Little-Anti-Cheat](https://github.com/fbef0102/Little-Anti-Cheat)</b>: Open source anti-cheat for source games, and runs on SourceMod.
 * <b>[Game-Private_Plugin](https://github.com/fbef0102/Game-Private_Plugin)</b>: Private Plugin List.
