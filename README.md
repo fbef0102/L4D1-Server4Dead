@@ -14,8 +14,8 @@
 	* **[l4dtoolz](https://github.com/accelerator74/l4dtoolz/releases)** - Unlock Server Slot Limit
 		* **v2.0.1** by ivailosp、Accelerator74
 
-	* **[Tickrate Enabler](https://github.com/fbef0102/Tickrate-Enabler/releases)** - Unlock Tickrate
-		* **v1.6** by ProdigySim、Spirit_12、Accelerator74、Forgetest
+	* **[Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases)** - Unlock Tickrate
+		* **v1.5** by ProdigySim、Spirit_12、Accelerator74、Forgetest
 
 * Extenstion
 	* **[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)** - Provides HTTP and JSON natives for plugins
