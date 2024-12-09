@@ -35,10 +35,10 @@
 
 * Extra File
 	* **[GeoLite2-City](https://www.maxmind.com/en/home)** - addons\sourcemod\configs\geoip\GeoLite2-City.mmdb
-		* **2024-05-14** by MAXMIND
+		* **2024-12-06** by MAXMIND
 
 	* **[GeoLite2-Country](https://www.maxmind.com/en/home)** - addons\sourcemod\configs\geoip\GeoLite2-Country.mmdb
-		* **2024-05-14** by MAXMIND
+		* **2024-12-06** by MAXMIND
 
 # Server Install
 * **Step 1:** A [clean L4D1 Dedicated Server](#how-to-download-l4d1-dedicated-server-files).
